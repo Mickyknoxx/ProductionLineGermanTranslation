@@ -1,6 +1,6 @@
 [config]
 name = "predictive_stock_control"
-guiname = "Predictive Stock Control"
+guiname = "Prädiktiv Bestandskontrolle"
 cost = 2200.0
 texture = "gui_cash.dds"
 togglable = 0

@@ -1,6 +1,6 @@
 [config]
 name = "bluetooth_phone_support"
-guiname = "Bluetooth Phone Support"
+guiname = "Bluetooth Handy Unterstuetzung"
 cost = 2900.0
 texture = "gui_cash.dds"
 

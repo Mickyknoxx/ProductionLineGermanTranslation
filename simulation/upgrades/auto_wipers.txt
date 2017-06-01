@@ -1,6 +1,6 @@
 [config]
 name = "auto_wipers"
-guiname = "Automatic Wipers"
+guiname = "Automatik Scheibenwischer"
 cost = 2900.0
 texture = "gui_cash.dds"
 

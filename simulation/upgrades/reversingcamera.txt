@@ -1,6 +1,6 @@
 [config]
 name = "reversing_camera"
-guiname = "Reversing Camera"
+guiname = "Rueckfahr Kamera"
 cost = 2900.0
 texture = "gui_cash.dds"
 

@@ -1,6 +1,6 @@
 [config]
 name = "aluminium_body"
-guiname = "Aluminium Body"
+guiname = "Aluminium Karosserie"
 cost = 3200.0
 texture = "gui_cash.dds"
 

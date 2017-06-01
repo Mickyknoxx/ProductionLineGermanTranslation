@@ -1,6 +1,6 @@
 [config]
 name = "leather_interior"
-guiname = "Leather Interior"
+guiname = "Leder Interior"
 cost = 4200.0
 texture = "gui_cash.dds"
 

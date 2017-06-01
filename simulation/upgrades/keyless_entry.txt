@@ -1,6 +1,6 @@
 [config]
 name = "keyless_entry"
-guiname = "Keyless Entry"
+guiname = "Schluesselloser Zugang"
 cost = 2900.0
 texture = "gui_cash.dds"
 

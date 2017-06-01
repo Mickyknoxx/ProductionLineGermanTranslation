@@ -1,6 +1,6 @@
 [config]
 name = "paintnozzles1"
-guiname = "High pressure paint nozzles"
+guiname = "Hochdruck Lackierduesen"
 cost = 4500.0
 texture = "gui_cash.dds"
 

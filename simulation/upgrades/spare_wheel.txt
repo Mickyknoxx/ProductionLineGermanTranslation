@@ -1,6 +1,6 @@
 [config]
 name = "spare_wheel"
-guiname = "Spare Wheel"
+guiname = "Ersatzreifen"
 cost = 2900.0
 texture = "gui_cash.dds"
 

@@ -1,6 +1,6 @@
 [config]
 name = "car_alarm"
-guiname = "Car Alarm"
+guiname = "Alarmanlage"
 cost = 2900.0
 texture = "gui_cash.dds"
 

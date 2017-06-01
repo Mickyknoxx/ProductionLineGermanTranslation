@@ -1,6 +1,6 @@
 [config]
 name = "emergency_brake_assist"
-guiname = "Emergency Brake Assist"
+guiname = "Notfall-Brems Assistent"
 cost = 2700.0
 texture = "gui_cash.dds"
 

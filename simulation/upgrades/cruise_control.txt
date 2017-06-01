@@ -1,6 +1,6 @@
 [config]
 name = "cruise_control"
-guiname = "Cruise Control"
+guiname = "Tempomat"
 cost = 2900.0
 texture = "gui_cash.dds"
 

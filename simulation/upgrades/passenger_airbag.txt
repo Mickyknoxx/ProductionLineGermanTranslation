@@ -1,6 +1,6 @@
 [config]
 name = "passenger_airbag"
-guiname = "Passenger Airbag"
+guiname = "Mitfahrer Airbag"
 cost = 2900.0
 texture = "gui_cash.dds"
 

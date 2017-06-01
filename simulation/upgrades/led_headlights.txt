@@ -1,6 +1,6 @@
 [config]
 name = "led_headlights"
-guiname = "LED Headlights"
+guiname = "LED Scheinwerfer"
 cost = 4800.0
 texture = "gui_cash.dds"
 

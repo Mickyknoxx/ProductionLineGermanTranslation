@@ -1,6 +1,6 @@
 [config]
 name = "central_locking"
-guiname = "Central Locking"
+guiname = "Zentral Verriegelung"
 cost = 2900.0
 texture = "gui_cash.dds"
 

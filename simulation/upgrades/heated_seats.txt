@@ -1,6 +1,6 @@
 [config]
 name = "heated_seats"
-guiname = "Heated Seats"
+guiname = "Beheizbare Sitze"
 cost = 2900.0
 texture = "gui_cash.dds"
 

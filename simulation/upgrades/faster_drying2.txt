@@ -1,6 +1,6 @@
 [config]
 name = "faster_drying2"
-guiname = "Turbo Drying"
+guiname = "Turbo Trocknen"
 cost = 2900.0
 texture = "gui_cash.dds"
 

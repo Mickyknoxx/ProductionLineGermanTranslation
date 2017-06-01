@@ -1,6 +1,6 @@
 [config]
 name = "voice_recognition"
-guiname = "Voice Recognition"
+guiname = "Spracherkennung"
 cost = 4550.0
 texture = "gui_cash.dds"
 

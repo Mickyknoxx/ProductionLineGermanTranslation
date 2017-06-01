@@ -1,6 +1,6 @@
 [config]
 name = "powered_tailgate"
-guiname = "Powered Tailgate"
+guiname = "Elektrische Heckklappe"
 cost = 2900.0
 texture = "gui_cash.dds"
 

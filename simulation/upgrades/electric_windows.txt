@@ -1,6 +1,6 @@
 [config]
 name = "electric_windows"
-guiname = "Electric Windows"
+guiname = "Elektrische Fenster"
 cost = 2900.0
 texture = "gui_cash.dds"
 

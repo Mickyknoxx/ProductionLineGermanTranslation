@@ -1,6 +1,6 @@
 [config]
 name = "satnav"
-guiname = "Sat Nav"
+guiname = "Satteliten Navigation"
 cost = 2900.0
 texture = "gui_cash.dds"
 

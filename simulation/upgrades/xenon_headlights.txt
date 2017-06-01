@@ -1,6 +1,6 @@
 [config]
 name = "xenon_headlights"
-guiname = "Xenon Headlights"
+guiname = "Xenon Scheinwerfer"
 cost = 4400.0
 texture = "gui_cash.dds"
 

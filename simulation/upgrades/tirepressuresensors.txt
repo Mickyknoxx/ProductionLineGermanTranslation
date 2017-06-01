@@ -1,6 +1,6 @@
 [config]
 name = "tire_pressure_sensors"
-guiname = "Tire-pressure sensors"
+guiname = "Reifendruck Sensoren"
 cost = 2900.0
 texture = "gui_cash.dds"
 

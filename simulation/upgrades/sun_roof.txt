@@ -1,6 +1,6 @@
 [config]
 name = "sun_roof"
-guiname = "Sun Roof"
+guiname = "Sonnendach"
 cost = 2900.0
 texture = "gui_cash.dds"
 

@@ -1,6 +1,6 @@
 [config]
 name = "powerplant_efficiency"
-guiname = "Powerplant Efficiency"
+guiname = "Kraftwerk Effizienz"
 cost = 4700.0
 texture = "gui_cash.dds"
 
