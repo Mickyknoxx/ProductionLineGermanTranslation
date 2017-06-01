@@ -1,0 +1,29 @@
+[config]
+name = "directional_headlights"
+guiname = "Directional Headlights"
+cost = 2900.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = 600
+type = SU_ABS_SPEED
+
+[feature0]
+name = feature_directional_headlights
+
+[resources]
+servo = 1
+
+[prop0]
+type = "control"
+offset = 0
+facing = 1
+XOffset = 0
+YOffset = -1
+
+[prop1]
+type = "cluster"
+offset = 3
+facing = 1
+XOffset = -1
+YOffset = -1

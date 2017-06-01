@@ -1,0 +1,21 @@
+[config]
+name = "faster_drying3"
+guiname = "Max Power Drying"
+cost = 2900.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = +0.1
+type = SU_SPEED
+
+[effect1]
+value = 35
+type = SU_ABS_POWER
+
+[prop0]
+type = "fans"
+offset = 7
+facing = 3
+XOffset = 0
+YOffset = 1
+

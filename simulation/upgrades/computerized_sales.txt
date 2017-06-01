@@ -1,0 +1,21 @@
+[config]
+name = "computerized_sales"
+guiname = "Computerized Sales"
+cost = 4500.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = -2000
+type = SU_ABS_SPEED
+
+[effect1]
+value = 11
+type = SU_ABS_POWER
+
+[prop0]
+type = "computer1"
+offset = 0
+facing = 0
+XOffset = 0
+YOffset = -1
+

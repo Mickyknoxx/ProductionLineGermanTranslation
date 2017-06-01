@@ -1,0 +1,19 @@
+[config]
+name = "spare_wheel"
+guiname = "Spare Wheel"
+cost = 2900.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = 1000
+type = SU_ABS_SPEED
+
+[effect1]
+value = 11
+type = SU_ABS_POWER
+
+[feature0]
+name = feature_spare_wheel
+
+[resources]
+wheel = 1

@@ -1,0 +1,39 @@
+[config]
+name = "expedited_sales"
+guiname = "Expedited Sales"
+cost = 4500.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = -1000
+type = SU_ABS_SPEED
+
+
+[prop0]
+type = "businessman"
+offset = 13
+facing = 1
+XOffset = 0
+YOffset = -1
+
+[prop1]
+type = "filing8"
+offset = 0
+facing = 0
+XOffset = 0
+YOffset = -1
+
+[prop2]
+type = "filing8"
+offset = 8
+facing = 0
+XOffset = 0
+YOffset = -1
+
+[prop3]
+type = "businessman"
+offset = 2
+facing = 3
+XOffset = 0
+YOffset = 1
+

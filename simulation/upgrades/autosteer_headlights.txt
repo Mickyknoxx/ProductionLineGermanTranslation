@@ -1,0 +1,19 @@
+[config]
+name = "autosteer_headlights"
+guiname = "Autosteer headlights"
+cost = 2900.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = 600
+type = SU_ABS_SPEED
+
+[effect1]
+value = 11
+type = SU_ABS_POWER
+
+[feature0]
+name = feature_autosteer_headlights
+
+[resources]
+servo = 1

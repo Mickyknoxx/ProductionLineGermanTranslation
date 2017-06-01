@@ -1,0 +1,29 @@
+[config]
+name = "panoramic_sunroof"
+guiname = "Panoramic Sun Roof"
+cost = 2900.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = 600
+type = SU_ABS_SPEED
+
+[effect1]
+value = 11
+type = SU_ABS_POWER
+
+[feature0]
+name = feature_panoramic_sunroof
+
+[components]
+0 = roof,-1
+1 = roofedge,-1
+2 = sunroof,-1
+3 = panoramic,1
+
+[resources]
+panoramic_sunroof = 1
+sunroof = -1
+
+[negatives]
+sun_roof

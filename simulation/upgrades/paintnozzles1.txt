@@ -1,0 +1,13 @@
+[config]
+name = "paintnozzles1"
+guiname = "High pressure paint nozzles"
+cost = 4500.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = 0.10
+type = SU_SPEED
+
+[effect1]
+value = 14
+type = SU_ABS_POWER

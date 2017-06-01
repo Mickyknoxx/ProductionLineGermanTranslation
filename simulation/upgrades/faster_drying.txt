@@ -1,0 +1,21 @@
+[config]
+name = "faster_drying"
+guiname = "Faster Drying"
+cost = 2800.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = +0.1
+type = SU_SPEED
+
+[effect1]
+value = 35
+type = SU_ABS_POWER
+
+[prop0]
+type = "fans"
+offset = 15
+facing = 1
+XOffset = 0
+YOffset = -1
+

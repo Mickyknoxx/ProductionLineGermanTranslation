@@ -1,0 +1,15 @@
+[config]
+name = "xenon_headlights"
+guiname = "Xenon Headlights"
+cost = 4400.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = 700
+type = SU_ABS_SPEED
+
+[feature0]
+name = feature_xenon_headlights
+
+[negatives]
+led_headlights

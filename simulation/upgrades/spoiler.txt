@@ -1,0 +1,22 @@
+[config]
+name = "spoiler"
+guiname = "Spoiler"
+cost = 1760.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = 610
+type = SU_ABS_SPEED
+
+[effect1]
+value = 11
+type = SU_ABS_POWER
+
+[feature0]
+name = feature_spoiler
+
+[components]
+0 = spoiler,1
+
+[resources]
+spoiler = 1

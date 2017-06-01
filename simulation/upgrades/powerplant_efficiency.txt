@@ -1,0 +1,9 @@
+[config]
+name = "powerplant_efficiency"
+guiname = "Powerplant Efficiency"
+cost = 4700.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = 0.08
+type = SU_POWERPROD

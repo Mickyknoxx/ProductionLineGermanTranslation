@@ -1,0 +1,16 @@
+[config]
+name = "aluminium_body"
+guiname = "Aluminium Body"
+cost = 3200.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = 620
+type = SU_ABS_SPEED
+
+[effect1]
+value = +10
+type = SU_ABS_POWER
+
+[feature0]
+name = feature_aluminium_body

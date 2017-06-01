@@ -1,0 +1,28 @@
+[config]
+name = "extrarobots2"
+guiname = "Extra Robots II"
+cost = 2700.0
+texture = "gui_cash.dds"
+togglable = 0
+
+[effect0]
+value = 0.075
+type = SU_SPEED
+
+[effect1]
+value = 22
+type = SU_ABS_POWER
+
+[prop0]
+type = "robot2"
+offset = 3
+facing = 1
+XOffset = 0
+YOffset = 0
+
+[prop1]
+type = "robot2"
+offset = 15
+facing = 3
+XOffset = 0
+YOffset = 0

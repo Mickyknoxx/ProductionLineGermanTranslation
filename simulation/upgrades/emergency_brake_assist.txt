@@ -1,0 +1,19 @@
+[config]
+name = "emergency_brake_assist"
+guiname = "Emergency Brake Assist"
+cost = 2700.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = 400
+type = SU_ABS_SPEED
+
+[effect1]
+value = 11
+type = SU_ABS_POWER
+
+[feature0]
+name = feature_emergency_brake_assist
+
+[resources]
+sensor = 1

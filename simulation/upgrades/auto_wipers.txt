@@ -1,0 +1,20 @@
+[config]
+name = "auto_wipers"
+guiname = "Automatic Wipers"
+cost = 2900.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = 610
+type = SU_ABS_SPEED
+
+[effect1]
+value = 11
+type = SU_ABS_POWER
+
+[feature0]
+name = feature_auto_wipers
+
+[resources]
+servo = 1
+sensor = 1

@@ -1,0 +1,16 @@
+[config]
+name = "antilockbrakes"
+guiname = "Anti-lock Brakes"
+cost = 2900.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = 300
+type = SU_ABS_SPEED
+
+[effect1]
+value = 11
+type = SU_ABS_POWER
+
+[feature0]
+name = feature_antilock_brakes

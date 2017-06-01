@@ -1,0 +1,21 @@
+[config]
+name = "make_alloy_wheels"
+guiname = "Make Alloy Wheels"
+cost = 4200.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = 800
+type = SU_ABS_SPEED
+
+[effect1]
+value = 100
+type = SU_ABS_POWER
+
+[exports]
+wheel_alloy = 1
+wheel = -1
+
+[resources]
+steel = 1
+

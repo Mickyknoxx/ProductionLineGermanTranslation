@@ -1,0 +1,34 @@
+[config]
+name = "climatecontrol"
+guiname = "ClimateControl"
+cost = 2900.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = 600
+type = SU_ABS_SPEED
+
+[effect1]
+value = 11
+type = SU_ABS_POWER
+
+[feature0]
+name = feature_climate_control
+
+[prop0]
+type = "computer1"
+offset = 7
+facing = 0
+XOffset = 1
+YOffset = -1
+
+[prop1]
+type = "computer1"
+offset = 6
+facing = 0
+XOffset = 1
+YOffset = -1
+
+[resources]
+climate_control = 1
+aircon = -1

@@ -1,0 +1,19 @@
+[config]
+name = "leather_interior"
+guiname = "Leather Interior"
+cost = 4200.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = 600
+type = SU_ABS_SPEED
+
+[effect1]
+value = 11
+type = SU_ABS_POWER
+
+[feature0]
+name = feature_leather_interior
+
+[resources]
+leather = 2

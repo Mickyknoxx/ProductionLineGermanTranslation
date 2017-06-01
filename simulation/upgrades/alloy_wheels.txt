@@ -1,0 +1,24 @@
+[config]
+name = "alloy_wheels"
+guiname = "Alloy Wheels"
+cost = 1260.0
+texture = "gui_cash.dds"
+
+[effect0]
+value = 50
+type = SU_ABS_SPEED
+
+[effect1]
+value = 3
+type = SU_ABS_POWER
+
+[feature0]
+name = feature_alloy_wheels
+
+[components]
+0 = alloy_wheels,1
+1 = wheels,-1
+
+[resources]
+wheel_alloy = 4
+wheel = -4
