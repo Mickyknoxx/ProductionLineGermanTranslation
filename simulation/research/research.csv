@@ -1,0 +1,143 @@
+token,name,guiname,parent,description,icon,,type,unlocks
+#,research_accessories_specialization,Accessories Specialization,,,tp_seat.dds,400,PROCESS,"task_fit_lights,task_fit_horn,task_fit_seats,task_fit_windscreen,task_fit_dashboard"
+#,research_axles_specialization,Axles Specialization,research_chassis_specialization,,tp_axle.dds,750,PROCESS,"task_fit_front_axle,task_fit_rear_axle,task_fit_drive_shaft,"
+#,research_body_specialization,Body Specialization,,,tp_bonnet.dds,400,PROCESS,"task_fit_roof,task_fit_doors,task_fit_bodyframe"
+#,research_bodyframe_specialization,BodyFrame Specialization,research_body_specialization,,tp_boot.dds,750,PROCESS,"task_fit_rollcage,task_fit_bonnet,task_fit_boot,task_fit_bumpers,task_fit_arches,task_fit_bottomtrim,task_fit_frontvent"
+#,research_bumper_specialization,Bumper Specialization,research_bodyframe_specialization,,tp_bumper.dds,1750,PROCESS,"task_fit_frontbumper,task_fit_rearbumper"
+#,research_arches_specialization,Arches Specialization,research_bodyframe_specialization,,tp_arch.dds,1750,PROCESS,"task_fit_frontarch,task_fit_reararch"
+#,research_chassis_specialization,Chassis Specialization,,,tp_undercarriage.dds,400,PROCESS,"task_fit axles,task_fuel_tank,task_fit_undercarriage"
+#,research_doors_specialization,Doors Specialization,research_body_specialization,,tp_door.dds,750,PROCESS,"task_fit_door_panels,task_fit_windows,task_fit_wing mirrors,"
+#,research_engine_specialization,Engine Specialization,,,tp_engine.dds,400,PROCESS,"task_fit_engine_assembly,task_fit_radiator,task_fit_exhaust,task_fit_wheelassembly,task_fit_steering_assembly,"
+#,research_manufacture_engine_block,Engine Block Manufacture,research_manufacture_powertrain,,tp_press.dds,2400,PROCESS,task_make_engine_block
+,,,,,,0,,
+#,research_manufacture_axles,Axles Manufacture,research_axles_specialization,,tp_press.dds,1750,PROCESS,task_make_axles
+#,research_manufacture_doorpanels,Doorpanels Manufacture,research_doors_specialization,,tp_press.dds,1750,PROCESS,"task_make_doorpanels,"
+#,research_manufacture_exhaust,Exhaust Manufacture,research_engine_specialization,,tp_press.dds,750,PROCESS,"task_make_exhaust,"
+,,,,,,0,,
+#,research_manufacture_fueltanks,Fuel tanks Manufacture,research_chassis_specialization,,tp_press.dds,750,PROCESS,task_make_fueltanks
+#,research_manufacture_horns,Horn Manufacture,research_accessories_specialization,,tp_press.dds,750,PROCESS,"task_make_horns,"
+#,research_manufacture_lights,Lights Manufacture,research_accessories_specialization,,tp_press.dds,750,PROCESS,"task_make_lights,"
+#,research_manufacture_radiator,Radiator Manufacture,research_engine_specialization,,tp_press.dds,1750,PROCESS,"task_make_radiator,"
+#,research_manufacture_roof,Roof Manufacture,research_body_specialization,,tp_press.dds,1750,PROCESS,"task_make_roof,"
+#,research_manufacture_seats,Seats Manufacture,research_accessories_specialization,,tp_press.dds,750,PROCESS,"task_make_seats,"
+#,research_manufacture_starter_motor,Starter Motor Manufacture,research_manufacture_powertrain,,tp_press.dds,1750,PROCESS,"task_make_startermotor,"
+#,research_manufacture_steeringwheels,Steering Wheels Manufacture,research_steering_specialization,,tp_press.dds,1750,PROCESS,"task_make_steeringwheels,"
+#,research_manufacture_valves,Valves Manufacture,research_manufacture_powertrain,,tp_press.dds,1750,PROCESS,"task_make_valve,"
+#,research_manufacture_wheels,Wheels Manufacture,research_wheels_specialization,,tp_press.dds,750,PROCESS,"task_make_wheels,"
+#,research_manufacture_windows,Windows Manufacture,research_doors_specialization,,tp_press.dds,1400,PROCESS,task_make_windows
+#,research_manufacture_engine_assembly,Engine Assembly Manufacture,research_manufacture_powertrain,,tp_press.dds,1750,PROCESS,task_make_engine_assembly
+#,research_manufacture_powertrain,Powertrain Manufacture,research_engine_specialization,,tp_press.dds,1750,PROCESS,task_make_powertrain
+#,research_drive_shaft_manufacture,Drive Shaft Manufacture,research_chassis_specialization,,tp_press.dds,1750,PROCESS,task_make_drive_shaft
+#,research_manufacture_sunroof,Sunroof Manufacture,research_manufacture_roof,,tp_press.dds,2400,PROCESS,task_make_sunroof
+#,research_manufacture_panoramic_sunroof,Panoramic Sunroof Manufacture,research_manufacture_roof,,tp_press.dds,2400,PROCESS,task_make_panoramic_sunroof
+,,,,,,0,,
+#,research_manufacture_boot,Trunk Manufacture,research_body_specialization,,tp_press.dds,1250,PROCESS,task_make_boot
+#,research_manufacture_bonnet,Hood Manufacture,research_body_specialization,,tp_press.dds,1250,PROCESS,task_make_bonnet
+#,research_manufacture_tires,Tire Manufacture,research_wheels_specialization,,tp_press.dds,1250,PROCESS,task_make_tires
+#,research_manufacture_brakes,Brakes Manufacture,research_wheels_specialization,,tp_press.dds,1250,PROCESS,task_make_brakes
+#,research_manufacture_rollcage,Body Shell Manufacture,research_body_specialization,,tp_press.dds,1250,PROCESS,task_make_rollcage
+#,research_manufacture_aircon,Aircon Manufacture,research_accessories_specialization,,tp_press.dds,2050,PROCESS,task_make_aircon
+#,research_manufacture_windscreen,Windscreen Manufacture,research_accessories_specialization,,tp_press.dds,2000,PROCESS,task_make_windscreen
+#,research_spoiler_manufacture,Spoiler Manufacture,research_bodyframe_specialization,,tp_press.dds,2050,PROCESS,task_make_spoiler
+,,,,,,0,,
+#,research_paint_specialization,Paint Specialization,,,tp_paint.dds,400,PROCESS,"task_paint_undercoat,task_dry_undercoat,task_paint_finish,task_dry finish,"
+#,research_paintnozzles1,High Pressure Paint Nozzles,research_paint_specialization,,tp_paint.dds,2250,PROCESS,paintnozzles1
+#,research_faster_drying,Faster Drying,research_improved_efficiency,,tp_dry.dds,1750,PROCESS,faster_drying
+#,research_faster_drying2,Turbo Drying,research_faster_drying,,tp_dry.dds,1750,PROCESS,faster_drying2
+#,research_faster_drying3,Max Power Drying,research_faster_drying2,,tp_dry.dds,3700,PROCESS,faster_drying3
+#,research_polish,Polished Paintwork,research_paint_specialization,,tp_polish.dds,3300,PROCESS,task_polish_paintwork
+,,,,,,-250,,
+#,research_steering_specialization,Steering Specialization,research_engine_specialization,,tp_steering.dds,750,PROCESS,"task_fit_steering_column,task_fit_steering_wheel,"
+#,research_wheels_specialization,Wheels Specialization,research_engine_specialization,,tp_wheel_basic_SW.dds,750,PROCESS,"task_fit_wheels,task_fit_tires,task_fit_brakes,"
+,,,,,,0,,
+X,research_marketing,Marketing,,,tp_desk.dds,400,PROCESS,fac_marketing_dept
+,,,,,,0,,
+#,research_morerobots1,More Robots,,Provides option to add extra production line robots to each slot,tp_robot.dds,400,PROCESS,extrarobots1
+#,research_morerobots2,Even More Robots,research_morerobots1,Provides option to add extra production line robots to each slot,tp_robot.dds,750,PROCESS,extrarobots2
+#,research_morerobots3,Robots Galore,research_morerobots2,Provides option to add extra production line robots to each slot,tp_robot.dds,1750,PROCESS,extrarobots3
+#,research_improved_efficiency,Improved Efficiency,,,tp_desk.dds,400,PROCESS,
+#,research_import_priority,Import Priorities,research_improved_efficiency,Unlocks capability to set import priorities on production slots.,tp_overhead.dds,1550,PROCESS,
+#,research_faster_imports,Faster resource imports,research_improved_efficiency,Boosts speed at which resource importers place resources on conveyor belts,tp_import.dds,750,PROCESS,
+#,research_faster_imports2,Even faster resource Imports,research_faster_imports,Boosts speed at which resource importers place resources on conveyor belts,tp_import.dds,1750,PROCESS,
+#,research_faster_imports3,Super-fast resource imports,research_faster_imports2,Boosts speed at which resource importers place resources on conveyor belts,tp_import.dds,1750,PROCESS,
+#,research_faster_conveyor,Faster Conveyor,research_improved_efficiency,Boosts the speed of the production line conveyor belts,tp_conveyor.dds,750,PROCESS,
+#,research_faster_conveyor_2,High Speed Conveyor Rollers,research_faster_conveyor,Even faster production lines,tp_conveyor.dds,1750,PROCESS,
+#,research_faster_resources_delivery,Faster overhead conveyors,research_improved_efficiency,Boosts the speed of the overhead resource delivery conveyors,tp_overhead.dds,750,PROCESS,
+#,research_faster_resources_delivery_2,Turbo-charged overhead conveyors,research_faster_resources_delivery,Even faster resource delivery,tp_overhead.dds,1750,PROCESS,
+#,research_predictive_stock_control,Predictive Stock Control,research_improved_efficiency,"re-orders resources at the start, not the end of the production cycle.",tp_overhead.dds,2000,PROCESS,predictive_stock_control
+#,research_powerplant_efficiency,Powerplant Efficiency,research_improved_efficiency,,tp_power.dds,750,PROCESS,powerplant_efficiency
+,,,,,,0,,
+#,research_expansion,Factory Expansion,,Allows expanding your factory into neighboring lots,tp_desk.dds,1750,PROCESS,
+#,research_administration,Administration,,,tp_desk.dds,1750,PROCESS,
+#,research_computerised_sales,Computerized sales,research_administration,,tp_desk.dds,2250,PROCESS,computerized_sales
+#,research_expedited_sales,Expedited Sales,research_computerised_sales,,tp_desk.dds,3850,PROCESS,expedited_sales
+#,research_body_design,Body Design,research_administration,,tp_desk.dds,2400,PROCESS,
+#,research_body_suv,SUV Body,research_body_design,Allows production of cars based on the Sports-Utility-vehicle body type.,tp_desk.dds,2400,PROCESS,car2
+#,research_body_compact,Compact Body,research_body_design,Allows production of cars based on the compact body type,tp_desk.dds,2400,PROCESS,car3
+,,,,,,0,,
+#,research_advanced_production,Advanced production,,,tp_press2.dds,2750,PROCESS,
+#,research_manufacture_servos,Servo-Motor Manufacture,research_advanced_production,,tp_servo.dds,3700,PROCESS,task_make_servos
+#,research_manufacture_sensors,Sensor Manufacture,research_advanced_production,,tp_sensor.dds,3700,PROCESS,task_make_sensors
+#,research_metal_rolling,Metal Rolling,research_advanced_production,,tp_sheet.dds,3400,PROCESS,task_steel_sheets
+#,research_retooling_basic,Basic re-tooling,research_advanced_production,Increases refund when demolishing equipment by 5%,tp_robot.dds,3850,PROCESS,
+#,research_retooling_advanced,Advanced re-tooling,research_retooling_basic,Increases refund when demolishing equipment by 5%,tp_robot.dds,4400,PROCESS,
+,,,,,,0,,
+#,research_power_production,Power Production,,,tp_power.dds,750,PROCESS,fac_power_plant
+#,research_ho_power,High Output Powerplant,research_power_production,,tp_power.dds,3050,PROCESS,fac_high_output_power_plant
+,,,,,,0,,
+,,,,,,0,,
+#,research_research_centers,Research Centers,,,tp_desk.dds,2400,PROCESS,fac_research_center
+#,research_safety_features,Safety Features,,,tp_desk.dds,550,TECHNOLOGY,
+#,research_antilock_brakes,Anti-Lock Brakes,research_safety_features,,tp_brakes.dds,1750,TECHNOLOGY,antilockbrakes
+#,research_emergency_brake_assist,Emergency Brake Assist,research_antilock_brakes,,tp_brakes.dds,1750,TECHNOLOGY,emergency_brake_assist
+#,research_reversing_camera,Reversing Camera,research_safety_features,,tp_desk.dds,1750,TECHNOLOGY,reversing_camera
+#,research_tire_pressure_sensors,Tire Pressure Sensors,research_safety_features,,tp_tyre.dds,1750,TECHNOLOGY,tire_pressure_sensors
+#,research_driver_airbag,Driver Airbag,research_safety_features,,tp_airbag.dds,1750,TECHNOLOGY,driver_airbag
+#,research_passenger_airbag,Passenger Airbag,research_driver_airbag,,tp_airbag.dds,1750,TECHNOLOGY,passenger_airbag
+#,research_spare_wheel,Spare Wheel,research_safety_features,,tp_wheel_basic_SW.dds,1750,TECHNOLOGY,spare_wheel
+#,research_lane_departure_warning_system,Lane Departure Warning,research_safety_features,,tp_desk.dds,2250,TECHNOLOGY,lane_departure_warning_system
+,,,,,,0,,
+#,research_driver_assistance,Driver Assistance,,,tp_desk.dds,550,TECHNOLOGY,
+#,research_power_steering,Power Steering,research_driver_assistance,,tp_steering.dds,750,TECHNOLOGY,powersteering
+#,research_autosteer_headlights,Autosteer Headlights,research_driver_assistance,,tp_headlights.dds,750,TECHNOLOGY,autosteer_headlights
+#,research_cruise_control,Cruise Control,research_driver_assistance,,tp_desk.dds,750,TECHNOLOGY,cruise_control
+#,research_adaptive_cruise_control,Adaptive Cruise Control,research_cruise_control,,tp_desk.dds,1750,TECHNOLOGY,adaptive_cruise_control
+#,research_traffic_aware_cruise_control,Traffic-Aware Cruise Control,research_cruise_control,,tp_desk.dds,2200,TECHNOLOGY,traffic_aware_cruise_control
+,,,,,,0,,
+#,research_security_features,Security Features,,,tp_desk.dds,400,TECHNOLOGY,
+#,research_central_locking,Central Locking,research_security_features,,tp_desk.dds,750,TECHNOLOGY,central_locking
+#,research_car_alarm,Car Alarm,research_security_features,,tp_alarm.dds,750,TECHNOLOGY,car_alarm
+#,research_keyless_entry,Keyless Entry,research_security_features,,tp_desk.dds,750,TECHNOLOGY,keyless_entry
+,,,,,,0,,
+#,research_environmental_features,Environmental Features,,,tp_desk.dds,550,TECHNOLOGY,
+#,research_aircon,Air Conditioning,research_environmental_features,,tp_aircon.dds,750,TECHNOLOGY,task_fit_aircon
+#,research_climate_control,Climate Control,research_aircon,,tp_climate.dds,1750,TECHNOLOGY,climatecontrol
+#,research_pollen_filter,Pollen Filter,research_climate_control,,tp_climate.dds,2200,TECHNOLOGY,pollen_filter
+#,research_heater,Heater,research_environmental_features,,tp_heater.dds,750,TECHNOLOGY,heater
+#,research_heated_seats,Heated Seats,research_heater,,tp_seat.dds,1150,TECHNOLOGY,heated_seats
+#,research_leather_interior,Leather Interior,research_environmental_features,,tp_seat.dds,750,TECHNOLOGY,leather_interior
+#,research_sun_roof,Sun Roof,research_environmental_features,,tp_desk.dds,750,TECHNOLOGY,sun_roof
+#,research_panoramic_sunroof,Panoramic Sun Roof,research_sun_roof,,tp_desk.dds,1150,TECHNOLOGY,panoramic_sunroof
+,,,,,,0,,
+#,research_convenience_features,Convenience Features,,,tp_desk.dds,550,TECHNOLOGY,
+#,research_electric_windows,Electric Windows,research_convenience_features,,tp_window.dds,750,TECHNOLOGY,electric_windows
+#,research_satnav,Sat Nav,research_convenience_features,,tp_satnav.dds,1750,TECHNOLOGY,satnav
+#,research_auto_wipers,Automatic Windscreen Wipers,research_convenience_features,,tp_desk.dds,750,TECHNOLOGY,auto_wipers
+#,research_auto_headlights,Automatic Headlights,research_convenience_features,,tp_headlights.dds,1750,TECHNOLOGY,auto_headlights
+#,research_directional_headlights,Directional Headlights,research_auto_headlights,,tp_headlights.dds,1950,TECHNOLOGY,directional_headlights
+#,research_xenon_headlights,Xenon Headlights,research_auto_headlights,,tp_headlights.dds,2400,TECHNOLOGY,xenon_headlights
+#,research_led_headlights,LED Headlights,research_xenon_headlights,,tp_headlights.dds,2600,TECHNOLOGY,led_headlights
+#,research_powered_seats,Powered Seats,research_convenience_features,,tp_seat.dds,900,TECHNOLOGY,powered_seats
+#,research_powered_steer_adjustment,Powered Steering Adjustment,research_convenience_features,,tp_steering.dds,900,TECHNOLOGY,powered_steer_adjustment
+#,research_powered_tailgate,Powered Tailgate,research_convenience_features,,tp_desk.dds,900,TECHNOLOGY,powered_tailgate
+,,,,,,0,,
+#,research_entertainment,Entertainment,,,tp_desk.dds,550,TECHNOLOGY,
+#,research_in_car_music,In-Car Music,research_entertainment,,tp_desk.dds,750,TECHNOLOGY,in_car_music
+#,research_bluetooth_phone_support,Bluetooth Phone Support,research_entertainment,,tp_desk.dds,2100,TECHNOLOGY,bluetooth_phone_support
+#,research_voice_recognition,Voice Recognition,research_entertainment,,tp_desk.dds,2600,TECHNOLOGY,voice_recognition
+,,,,,,0,,
+#,research_performance_features,Performance Features,,,tp_desk.dds,1750,TECHNOLOGY,
+#,research_aluminium_body,Aluminium Body,research_performance_features,,tp_desk.dds,2900,TECHNOLOGY,aluminium_body
+#,research_spoiler,Spoiler,research_performance_features,,tp_desk.dds,1100,TECHNOLOGY,spoiler
+#,research_stop_start_engine,Stop-Start Engines,research_performance_features,,tp_engine.dds,2000,TECHNOLOGY,stop_start_engine
+#,research_alloy_wheels,Alloy Wheels,research_performance_features,,tp_wheel_alloy.dds,2200,TECHNOLOGY,"alloy_wheels,make_alloy_wheels"
