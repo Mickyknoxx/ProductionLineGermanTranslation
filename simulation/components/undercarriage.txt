@@ -1,0 +1,12 @@
+[config]
+name = undercarriage
+guiname = Undercarriage
+offset = 0,0
+width = 1.0
+height = 1.0
+z_order = 3
+texture_se = _SW_03_under carrige.dds,1
+texture_sw = _SW_03_under carrige.dds,0
+texture_ne = _NE_03_under carrige.dds,0
+texture_nw = _NE_03_under carrige.dds,1
+

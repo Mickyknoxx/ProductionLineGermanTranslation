@@ -1,0 +1,12 @@
+[config]
+name = roof
+guiname = Roof
+offset = 0,0
+width = 1.0
+height = 1.0
+z_order = 23
+texture_se = _SW_23_roof colour.dds,1
+texture_sw = _SW_23_roof colour.dds,0
+texture_ne = _NE_23_roof colour.dds,0
+texture_nw = _NE_23_roof colour.dds,1
+

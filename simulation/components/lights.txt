@@ -1,0 +1,12 @@
+[config]
+name = lights
+guiname = Lights
+offset = 0,0
+width = 1.0
+height = 1.0
+z_order = 25
+texture_se = _SW_25_lights.dds,1
+texture_sw = _SW_25_lights.dds,0
+texture_ne = _NE_25_lights.dds,0
+texture_nw = _NE_25_lights.dds,1
+

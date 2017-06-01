@@ -1,0 +1,12 @@
+[config]
+name = bottomtrim
+guiname = Bottom Trim
+offset = 0,0
+width = 1.0
+height = 1.0
+z_order = 9
+texture_se = _SW_09_bottom trim.dds,1
+texture_sw = _SW_09_bottom trim.dds,0
+texture_ne = _NE_09_bottom trim.dds,0
+texture_nw = _NE_09_bottom trim.dds,1
+

@@ -1,0 +1,12 @@
+[config]
+name = reararch
+guiname = Rear Arch
+offset = 0,0
+width = 1.0
+height = 1.0
+z_order = 10
+texture_se = _SW_10_rear wheel arch colour.dds,1
+texture_sw = _SW_10_rear wheel arch colour.dds,0
+texture_ne = _NE_10_rear wheel arch colour.dds,0
+texture_nw = _NE_10_rear wheel arch colour.dds,1
+

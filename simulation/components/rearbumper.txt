@@ -1,0 +1,12 @@
+[config]
+name = rearbumper
+guiname = Rear Bumper
+offset = 0,0
+width = 1.0
+height = 1.0
+z_order = 7
+texture_se = _SW_07_rear bumper colour.dds,1
+texture_sw = _SW_07_rear bumper colour.dds,0
+texture_ne = _NE_07_rear bumper colour.dds,0
+texture_nw = _NE_07_rear bumper colour.dds,1
+

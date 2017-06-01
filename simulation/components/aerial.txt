@@ -1,0 +1,12 @@
+[config]
+name = aerial
+guiname = Aerial
+offset = 0,0
+width = 1.0
+height = 1.0
+z_order = 30
+texture_se = _SW_30_aerial.dds,1
+texture_sw = _SW_30_aerial.dds,0
+texture_ne = _NE_30_aerial.dds,0
+texture_nw = _NE_30_aerial.dds,1
+

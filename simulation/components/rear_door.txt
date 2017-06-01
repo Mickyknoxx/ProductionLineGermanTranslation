@@ -1,0 +1,12 @@
+[config]
+name = rear_door
+guiname = Rear Door
+offset = 0,0
+width = 1.0
+height = 1.0
+z_order = 17
+texture_se = _SW_17_rear door.dds,1,_SW_18_rear door colour.dds,1
+texture_sw = _SW_17_rear door.dds,0,_SW_18_rear door colour.dds,0
+texture_ne = _NE_17_rear door.dds,0,_NE_18_rear door colour.dds,0
+texture_nw = _NE_17_rear door.dds,1,_NE_18_rear door colour.dds,1
+

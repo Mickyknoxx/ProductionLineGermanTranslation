@@ -1,0 +1,12 @@
+[config]
+name = front_door
+guiname = Front Door
+offset = 0,0
+width = 1.0
+height = 1.0
+z_order = 19
+texture_se = _SW_19_front door.dds,1,_SW_20_front door colour.dds,1
+texture_sw = _SW_19_front door.dds,0,_SW_20_front door colour.dds,0
+texture_ne = _NE_19_front door.dds,0,_NE_20_front door colour.dds,0
+texture_nw = _NE_19_front door.dds,1,_NE_20_front door colour.dds,1
+

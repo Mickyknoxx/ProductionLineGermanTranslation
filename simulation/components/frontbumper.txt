@@ -1,0 +1,12 @@
+[config]
+name = frontbumper
+guiname = Front Bumper
+offset = 0,0
+width = 1.0
+height = 1.0
+z_order = 8
+texture_se = _SW_08_front bumper colour.dds,1
+texture_sw = _SW_08_front bumper colour.dds,0
+texture_ne = _NE_08_front bumper colour.dds,0
+texture_nw = _NE_08_front bumper colour.dds,1
+

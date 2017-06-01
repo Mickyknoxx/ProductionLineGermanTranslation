@@ -1,0 +1,12 @@
+[config]
+name = roofrack
+guiname = Roof Rack
+offset = 0,0
+width = 1.0
+height = 1.0
+z_order = 31
+texture_se = _SW_31_roof rack.dds,1
+texture_sw = _SW_31_roof rack.dds,0
+texture_ne = _NE_31_roof rack.dds,0
+texture_nw = _NE_31_roof rack.dds,1
+
