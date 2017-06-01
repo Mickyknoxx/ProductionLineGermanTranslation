@@ -1,0 +1,46 @@
+token,name,guiname,marketvalue,does-ai_research,universal
+#,feature_basic_car,Basic Car,16000,0,0
+#,feature_basic_qa,QA,120,0,0
+,,,,,
+#,feature_antilock_brakes,Anti-Lock Brakes,105,1,1
+#,feature_reversing_camera,Reversing Camera,105,1,0
+#,feature_tire_pressure_sensors,Tire Pressure Sensors,225,1,1
+#,feature_driver_airbag,Driver Airbag,366,1,1
+#,feature_passenger_airbag,Passenger Airbag,366,1,1
+#,feature_spare_wheel,Spare Wheel,412,1,1
+#,feature_lane_departure_warning_system,Lane Departure Warning,411,1,0
+#,feature_power_steering,Power Steering,184,1,1
+#,feature_autosteer_headlights,Autosteer Headlights,184,1,1
+#,feature_cruise_control,Cruise Control,184,1,0
+#,feature_adaptive_cruise_control,Adapative Cruise Control,105,1,0
+#,feature_traffic_aware_cruise_control,Traffic-Aware Cruise Control,374,1,0
+#,feature_central_locking,Central Locking,186,1,1
+#,feature_car_alarm,Car Alarm,367,1,1
+#,feature_keyless_entry,Keyless Entry,230,1,1
+#,feature_aircon,Air Conditioning,1697,1,1
+#,feature_climate_control,Climate Control,1205,1,0
+#,feature_pollen_filter,Pollen Filter,105,1,0
+#,feature_heater,Heater,393,1,1
+#,feature_heated_seats,Heated Seats,403,1,0
+#,feature_leather_interior,Leather Interior,984,0,0
+#,feature_sun_roof,Sun Roof,920,1,1
+#,feature_panoramic_sunroof,Panoramic Sun Roof,1531,1,0
+#,feature_electric_windows,Electric Windows,184,1,1
+#,feature_satnav,Sat Nav,378,1,1
+#,feature_auto_wipers,Automatic Windscreen Wipers,304,1,1
+#,feature_auto_headlights,Automatic Headlights,225,1,1
+#,feature_powered_seats,Powered Seats,188,1,1
+#,feature_powered_steer_adjustment,Powered Steering Adjustment,188,1,1
+#,feature_powered_tailgate,Powered Tailgate,188,1,0
+#,feature_in_car_music,In-Car Music,229,1,1
+#,feature_bluetooth_phone_support,Bluetooth Phone Support,106,1,0
+#,feature_voice_recognition,Voice Recognition,289,1,0
+#,feature_aluminium_body,Aluminium Body,110,1,0
+#,feature_spoiler,Spoiler,296,1,0
+#,feature_stop_start_engine,Stop-Start Engine,285,1,1
+#,feature_emergency_brake_assist,Emergency Brake Assist,221,1,1
+#,feature_directional_headlights,Directional Headlights,218,1,0
+#,feature_xenon_headlights,Xenon headlights,189,0,0
+#,feature_led_headlights,LED Headlights,198,0,0
+#,feature_alloy_wheels,Alloy Wheels,424,1,1
+#,feature_polish,Polished Paintwork,388,1,1
