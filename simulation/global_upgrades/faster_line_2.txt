@@ -1,0 +1,4 @@
+[config]
+ResearchName = research_faster_conveyor_2
+Value = 0.10
+VariableName = GFV_CONVEYOR_SPEED

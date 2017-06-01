@@ -1,0 +1,4 @@
+[config]
+ResearchName = research_retooling_basic
+Value = 0.05
+VariableName = GFV_DEMOLITION_REFUND

@@ -1,0 +1,4 @@
+[config]
+ResearchName = research_faster_resources_delivery
+Value = 0.15
+VariableName = GFV_RESOURCE_CONV_SPEED

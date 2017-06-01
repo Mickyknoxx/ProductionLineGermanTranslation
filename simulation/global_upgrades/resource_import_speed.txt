@@ -1,0 +1,4 @@
+[config]
+ResearchName = research_faster_imports
+Value = 0.15
+VariableName = GFV_IMPORT_RATE_SPEED
