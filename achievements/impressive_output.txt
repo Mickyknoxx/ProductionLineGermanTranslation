@@ -1,0 +1,10 @@
+[config]
+Name = impressive_output
+GUIName = "Bumper Output"
+Description = "Good work, the production line is ticking over nicely and factory output is racing ahead but don’t take your eyes off the road ahead.”
+Type = VEHICLES_TOTAL_HOUR
+Var1 = 350
+Var2 = 20
+Requirements = "Produce 350 cars in 20 hours during a single game."
+GUIIndex = 5
+Icon = "icon_achievement_ImpressiveOutput.png"

@@ -1,0 +1,10 @@
+[config]
+Name = rapid_fire_revenue
+GUIName = "Full Throttle Revenue"
+Description = "Bravo, your business revenue stream was fast and furious for a while. A truly turbo-boosted performance."
+Type = REVENUE_EARNED_HOUR
+Var1 = 500000
+Var2 = 1
+Requirements = "Earn five hundred thousand dollars revenue in a single hour."
+GUIIndex = 9
+Icon = "icon_achievement_RapidFireRevenue.png"

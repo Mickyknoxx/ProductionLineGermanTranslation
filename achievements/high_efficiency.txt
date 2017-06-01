@@ -1,0 +1,10 @@
+[config]
+Name = high_efficiency
+GUIName = "Efficiency Awareness"
+Description = "Good work, you have achieved the Efficiency Awareness Award and your business is gearing up for greatness. Don’t let poor efficiency stall further progress.”
+Type = SLOTEFFICIENCY
+Var1 = 0.5
+Var2 = 
+Requirements = "Hit a peak of 50% production slot utilisation at a single moment."
+GUIIndex = 10
+Icon = "icon_achievement_HighEfficiency.png"

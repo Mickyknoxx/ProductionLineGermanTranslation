@@ -1,0 +1,11 @@
+[config]
+Name = niche_production
+GUIName = "Start-up Production"
+Description ="Well done, you have a functional production line and your start-up business has produced its first century run of vehicles! Do you have the drive to take production all the way?”
+Type = VEHICLES_TOTAL
+Var1 = 100
+Var2 = 0
+Requirements = "Produce 100 cars in a single game."
+GUIIndex = 1
+Icon = "icon_achievement_NicheProduction.png"
+

@@ -1,0 +1,10 @@
+[config]
+Name = consistent_efficiency
+GUIName = "High-Octane Efficiency"
+Description = "Fantastic job! Hyperdrive engaged. A dazzling, well-oiled performance. You understand that efficiency is one of the drivers of profit.”
+Type = SLOTEFFICIENCY_HOUR
+Var1 = 0.5
+Var2 = 10
+Requirements = "Maintain a level of 50% production slot efficiency over a period of ten hours."
+GUIIndex = 11
+Icon = "icon_achievement_ConsistentEfficiency.png"

@@ -1,0 +1,10 @@
+[config]
+Name = serious_money
+GUIName = "Revenue Overdrive"
+Description = "Congratulations on smashing the ten million dollar revenue barrier. You have shown great drive and determination. Is now a good time to remind you that revenue is not the same as profit?"
+Type = REVENUE_EARNED
+Var1 = 10000000
+Var2 = 
+Requirements = "Earn ten million dollars in revenue in a single game."
+GUIIndex = 8
+Icon = "icon_achievement_SeriousMoney.png"

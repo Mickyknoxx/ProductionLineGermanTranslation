@@ -1,0 +1,10 @@
+[config]
+Name = awesome_output
+GUIName = "High Octane Output"
+Description = "Production line performance has shown an impressive acceleration in output. Buckle up, it’s full speed ahead for the business.” 
+Type = VEHICLES_TOTAL_HOUR
+Var1 = 1000
+Var2 = 50
+Requirements = "Produce 1,000 cars in 50 hours during a single game."
+GUIIndex = 6
+Icon = "icon_achievement_AwesomeOutput.png"

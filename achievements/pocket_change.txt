@@ -1,0 +1,10 @@
+[config]
+Name = pocket_change
+GUIName = "Millionized revenue"
+Description = "A proud day for the car factory, you have taken one million dollars in revenue. Keep firing on all cylinders.”
+Type = REVENUE_EARNED
+Var1 = 1000000
+Var2 = 
+Requirements = "Earn one million dollars in revenue in a single game."
+GUIIndex = 7
+Icon = "icon_achievement_PocketChange.png"

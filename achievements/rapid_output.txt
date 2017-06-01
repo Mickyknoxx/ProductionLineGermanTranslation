@@ -1,0 +1,10 @@
+[config]
+Name = rapid_output
+GUIName = "Middle of the Road Output"
+Description = ”Well done, you are steering your company in the right direction by keeping an eye on the clock. Keep rolling out those cars.”
+Type = VEHICLES_TOTAL_HOUR
+Var1 = 100
+Var2 = 10
+Requirements = "Produce 100 cars in 10 hours during a single game."
+GUIIndex =4
+Icon = "icon_achievement_RapidOutput.png"
