@@ -1,10 +1,10 @@
 [config]
 Name = premium_production
 GUIName = "Premium Car Production"
-Description = "Your top-quality innovation and investment strategy has paid off and caught the attention of some discerning customers. A sound reputation means the road ahead could be paved with success.”
+Description = "Your top-quality innovation and investment strategy has paid off and caught the attention of some discerning customers. A sound reputation means the road ahead could be paved with success.ï¿½
 Type = VEHICLES_PREMIUM
 Var1 = 25000
 Var2 = 1000
-Requirements = "Sell one thousand cars at a price point of $25,000 or higher in a single game."
+Requirements = "Verkaufe 1.000 Fahrzeuge zu einem Preis von 25.000 $ oder mehr in einem einzigen Spiel."
 GUIIndex = 12
 Icon = "icon_achievement_PremiumProduction.png"

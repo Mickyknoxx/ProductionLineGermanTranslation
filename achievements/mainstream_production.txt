@@ -1,10 +1,10 @@
 [config]
 Name = mainstream_production
 GUIName = "Mainstream Production"
-Description ="Good work, your fifth hundred car has rolled off the production line. Are your management skills agile enough to rev your business up even further?” 
+Description ="Good work, your fifth hundred car has rolled off the production line. Are your management skills agile enough to rev your business up even further?ï¿½ 
 Type = VEHICLES_TOTAL
 Var1 = 500
 Var2 = 0
-Requirements = "Produce 500 cars in a single game."
+Requirements = "Produziere 500 Fahrzeuge in einem einzigen Spiel."
 GUIIndex = 2
 Icon = "icon_achievement_MainstreamProduction.png"

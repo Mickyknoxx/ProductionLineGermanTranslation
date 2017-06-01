@@ -5,6 +5,6 @@ Description = "Bravo, your business revenue stream was fast and furious for a wh
 Type = REVENUE_EARNED_HOUR
 Var1 = 500000
 Var2 = 1
-Requirements = "Earn five hundred thousand dollars revenue in a single hour."
+Requirements = "Verdiene 500.000 $ in einer Stunde."
 GUIIndex = 9
 Icon = "icon_achievement_RapidFireRevenue.png"

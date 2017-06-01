@@ -5,6 +5,6 @@ Description = "Congratulations on smashing the ten million dollar revenue barrie
 Type = REVENUE_EARNED
 Var1 = 10000000
 Var2 = 
-Requirements = "Earn ten million dollars in revenue in a single game."
+Requirements = "Verdiene 10.000.000 $ an Einnahmen in einem einzigen Spiel."
 GUIIndex = 8
 Icon = "icon_achievement_SeriousMoney.png"
