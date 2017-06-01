@@ -1,0 +1,59 @@
+token,name,guiname,icon,delivery,cost,size,type
+#,axle,Axle,axle_SW.dds,axle_SW.dds,192,128,RES_COMP
+#,brake,Brake,brakes_SW.dds,brakes_SW.dds,153,128,RES_COMP
+#,door panel,Door Panel,door_SW.dds,door_SW.dds,211,166,RES_COMP
+#,drive shaft,Drive Shaft,driveshaft_SW.dds,driveshaft_SW.dds,110,128,RES_COMP
+#,exhaust,Exhaust,exhaust_SW.dds,exhaust_SW.dds,300,128,RES_COMP
+#,fuel tank,Fuel Tank,fueltank_SW.dds,fueltank_SW.dds,264,128,RES_COMP
+#,horn,Horn,horn_SW.dds,horn_SW.dds,57,128,RES_COMP
+#,light,Light,headlights_SW.dds,headlights_SW.dds,105,128,RES_COMP
+,,,,,,,
+,,,,,,,
+#,valve,Valve,enginevalve_SW.dds,enginevalve_SW.dds,52,128,RES_COMP
+#,engine_block,Engine Block,engineblock_SW.dds,engineblock_SW.dds,60,128,RES_COMP
+#,transmission,Transmission,transmission_SW.dds,transmission_SW.dds,50,128,RES_COMP
+#,engine_assembly,Engine Assembly,engine_SW.dds,engine_SW.dds,522,128,RES_COMP
+#,powertrain,PowerTrain,powertrain_SW.dds,powertrain_SW.dds,930,128,RES_COMP
+#,starter motor,Engine Control Unit,ecu_SW.dds,ecu_SW.dds,158,128,RES_COMP
+,,,,,,,
+#,radiator,Radiator,radiator_SW.dds,radiator_SW.dds,124,128,RES_COMP
+#,roof,Roof,roof_SW.dds,roof_SW.dds,216,128,RES_COMP
+#,seat,Seat,seat_SW.dds,seat_SW.dds,475,128,RES_COMP
+#,steering column,Steering Column,steeltube_SW.dds,steeltube_SW.dds,100,128,RES_COMP
+#,steering wheel,Steering Wheel,steering_SW.dds,steering_SW.dds,275,128,RES_COMP
+#,tire,Tire,tyre_SW.dds,tyre_SW.dds,158,128,RES_COMP
+#,wheel,Wheel,wheel_basic_SW.dds,wheel_basic_SW.dds,133,128,RES_COMP
+#,wheel_alloy,Alloy Wheel,wheel_alloy_SW.dds,wheel_alloy_SW.dds,177,128,RES_COMP
+#,window,Window,window_SW.dds,window_SW.dds,57,128,RES_COMP
+#,windscreen,Windscreen,windscreen_SW.dds,windscreen_SW.dds,211,128,RES_COMP
+#,wing mirror,WingMirror,wingmirror_SW.dds,wingmirror_SW.dds,52,128,RES_COMP
+#,aircon,Aircon Unit,aircon_SW.dds,aircon_SW.dds,480,128,RES_COMP
+#,climate_control,Climate Control Unit,climatecontrol_SW.dds,climatecontrol_SW.dds,530,128,RES_COMP
+#,bonnet,Hood,bonnet_SW.dds,bonnet_SW.dds,58,128,RES_COMP
+#,boot,Trunk,boot_SW.dds,boot_SW.dds,62,128,RES_COMP
+#,bottomtrim,Trim,bottomtrim_SW.dds,bottomtrim_SW.dds,36,128,RES_COMP
+#,front bumper,Front Bumper,frontbumper_SW.dds,frontbumper_SW.dds,36,128,RES_COMP
+#,rollcage,Body Shell,rollcage_SW.dds,rollcage_SW.dds,84,128,RES_COMP
+#,undercarriage,Undercarriage,undercarriage_SW.dds,undercarriage_SW.dds,72,128,RES_COMP
+#,vent,Vent,vent_SW.dds,vent_SW.dds,48,128,RES_COMP
+#,front arch,Front Arch,frontarch_SW.dds,frontarch_SW.dds,36,128,RES_COMP
+#,rear arch,Rear Arch,reararch_SW.dds,reararch_SW.dds,36,128,RES_COMP
+#,rear bumper,Rear Bumper,rearbumper_SW.dds,rearbumper_SW.dds,36,128,RES_COMP
+#,airbag,Airbag,airbag_SW.dds,airbag_SW.dds,110,128,RES_COMP
+#,servo,Servo,servo_SW.dds,servo_SW.dds,33,128,RES_COMP
+#,steel_sheet,Steel Sheet,steelsheet_SW.dds,steelsheet_SW.dds,52,128,RES_COMP
+#,sunroof,Sunroof,sunroof_SW.dds,sunroof_SW.dds,400,128,RES_COMP
+#,panoramic_sunroof,Panoramic Sunroof,panoramic_SW.dds,panoramic_SW.dds,700,128,RES_COMP
+#,aerial,Aerial,aerial_SW.dds,aerial_SW.dds,55,128,RES_COMP
+#,alarm,Alarm,alarm_SW.dds,alarm_SW.dds,123,128,RES_COMP
+#,spoiler,Spoiler,spoiler_SW.dds,spoiler_SW.dds,96,128,RES_COMP
+#,chip,Chip,chip_SW.dds,chip_SW.dds,55,128,RES_COMP
+#,heater,Heater,heater_SW.dds,heater_SW.dds,137,128,RES_COMP
+#,satnav,SatNav,satnav_SW.dds,satnav_SW.dds,116,128,RES_COMP
+#,sensor,Sensor,sensor_SW.dds,sensor_SW.dds,40,128,RES_COMP
+raw materials,,,,,,,
+#,paint,Paint,paint_SW.dds,paint_SW.dds,88,128,RES_RAW
+#,glass,Glass,glass_SW.dds,glass_SW.dds,28,128,RES_RAW
+#,rubber,Rubber,rubber_SW.dds,rubber_SW.dds,16,128,RES_RAW
+#,steel,Steel,steel_SW.dds,steel_SW.dds,40,128,RES_RAW
+#,leather,Leather,leather_SW.dds,leather_SW.dds,200,128,RES_RAW
