@@ -1,0 +1,5 @@
+[config]
+Name = car1
+GUIName = "Sedan"
+locked = 0
+BaseCostMultiplier = 1.0

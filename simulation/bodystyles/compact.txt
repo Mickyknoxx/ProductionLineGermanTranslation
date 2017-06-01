@@ -1,0 +1,19 @@
+[config]
+Name = car3
+GUIName = "Compact"
+locked = 1
+BaseCostMultiplier = 0.8
+
+[task_fit_door_panels]
+//overrides resource requirements
+resources = door panel,2
+//multiply process time by this amount
+time = 0.55
+
+[task_fit_windows]
+//overrides resource requirements
+resources = window,3
+//multiply process time by this amount
+time = 0.55
+
+
