@@ -1,7 +1,10 @@
 # ProductionLineGermanTranslation
 Deutsche Übersetzung für das Spiel Production Line
 
+13.06.2017
+Mit der Version 1.23 hat der Entwickler die Unterstützung für Community Übersetzungen eingeführt. Durch die Umstellung der Dateien ist die Übersetzung deutlich einfacher geworden. Daher habe auch ich dieses Repository aktualisiert und mit der Übersetzung der Dateien begonnen.
 
+02.06.2017
 Die Idee zu diesem Repository kam mir als ich im Forum zum Spiel auf den Thread zur deutschen Übersetzung als Mod gestoßen bin. Mir ist dabei aufgefallen das die Community hierbei sehr unorganisiert ist. Es gibt hier wohl mehr als eine Übersetzung, leider wohl alle nicht komplett. 
 
 Es gibt wohl auch keine gemeinschaftliche Arbeit an einer "guten" Übersetzung und keinen einheitlichen Weg die vorhandenen Ansätze auszutauschen.
